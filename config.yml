@@ -1,0 +1,14 @@
+mysql:
+  user     : testuser
+  password : testuser
+  host     : localhost
+  port     : 3306
+  db       : toycertdb
+           
+http:
+  port: 8080
+  host: localhost
+certsDir: toycert_dir
+
+
+

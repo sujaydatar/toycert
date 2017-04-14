@@ -1,0 +1,14 @@
+site_name: Toycert 
+pages:
+        - Home: index.md
+        - Setup: setup.md
+        - REST API: rest.md
+        - Security: security.md
+        - Scalability: scalability.md
+
+theme: 'material'
+
+extra:
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'

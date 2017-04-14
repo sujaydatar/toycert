@@ -1,0 +1,7 @@
+{
+    "commonName"  : "accounting.domain.com",
+    "organization" : "Acme, Inc",
+    "country" : "USA",
+    "state"   : "CA",
+    "location" : "San Francisco"
+}
