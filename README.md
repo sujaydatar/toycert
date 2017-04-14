@@ -1,4 +1,4 @@
-# toycert
+# Toycert
 Toycert is a service that implements cloudflare's programming excercise. 
 For more information please check the wiki:
 
